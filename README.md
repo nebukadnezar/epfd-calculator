@@ -11,7 +11,7 @@ This is the code behind
 > B. Indermuehle, L. McCallum, L. Lourenco, E. van der Wateren (2026),
 > "Towards Genuine Coexistence: Per-Satellite Emission and Radiation Limits to
 > Protect Radio Astronomy and Geodetic VLBI at 1-14 GHz from Satellite
-> Constellations", PASA.
+> Constellations", PASA. [arXiv:2608.11659](https://arxiv.org/abs/2608.11659)
 
 It builds on [pycraf](https://github.com/bwinkel/pycraf) and
 [cysgp4](https://github.com/bwinkel/cysgp4).
