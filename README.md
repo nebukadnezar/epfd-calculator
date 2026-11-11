@@ -8,7 +8,8 @@ radiation limit that keeps a fleet of any size below the threshold.
 
 This is the code behind
 
-> B. Indermuehle, L. McCallum, L. Lourenco, E. van der Wateren (2026),
+> B. Indermuehle, L. McCallum, E. van der Wateren, H. Hase, B. Winkel,
+> L. Lourenço, F. Di Vruno, M. Lindqvist, G. Hellbourg and G. I. G. Józsa (2026),
 > "Towards Genuine Coexistence: Per-Satellite Emission and Radiation Limits to
 > Protect Radio Astronomy and Geodetic VLBI at 1-14 GHz from Satellite
 > Constellations", PASA. [arXiv:2608.11659](https://arxiv.org/abs/2608.11659)
@@ -174,7 +175,7 @@ reference bandwidth below 1 GHz.
 ## Licence and citation
 
 GNU General Public License v3, see `LICENSE`. The engine derives from the EPFD
-calculator by B. Winkel, F. Di Vruno and G. Jozsa.
+calculator by B. Winkel, F. Di Vruno and G. Józsa.
 
 If you use this code, please cite the paper above, and pycraf (Winkel & Jessner
 2018) and cysgp4.
