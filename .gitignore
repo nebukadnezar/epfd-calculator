@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# everything the scripts write (output_dir in config.json)
+output/
+
+# orbital-element snapshots other than the shipped example
+data/*.xml
+data/*.tle
+data/*.xml.bz2
+!data/full_omm_2026-06-21_03.xml.bz2

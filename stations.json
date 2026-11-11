@@ -1,0 +1,11 @@
+{
+  "Hb": {"name": "Hobart", "lon": 147.44, "lat": -42.8, "alt": 0.04, "diam": 12.0, "min_el": 5, "kind": "VGOS", "fmin": 2000, "fmax": 14000},
+  "Ke": {"name": "Katherine", "lon": 132.15, "lat": -14.38, "alt": 0.19, "diam": 12.0, "min_el": 5, "kind": "VGOS", "fmin": 2000, "fmax": 14000},
+  "Yg": {"name": "Yarragadee", "lon": 115.35, "lat": -29.05, "alt": 0.24, "diam": 12.0, "min_el": 5, "kind": "VGOS", "fmin": 2000, "fmax": 14000},
+  "ATCA": {"name": "ATCA", "lon": 149.5501, "lat": -30.3128, "alt": 0.21, "diam": 22.0, "min_el": 12, "kind": "RAS", "fmin": 1000, "fmax": 14000},
+  "Mop": {"name": "Mopra", "lon": 149.0996, "lat": -31.2677, "alt": 0.87, "diam": 22.0, "min_el": 12, "kind": "RAS", "fmin": 1100, "fmax": 14000},
+  "Pks": {"name": "Murriyang", "lon": 148.2635, "lat": -32.9984, "alt": 0.41, "diam": 64.0, "min_el": 30, "kind": "RAS", "fmin": 700, "fmax": 14000},
+  "Ced": {"name": "Ceduna", "lon": 133.8098, "lat": -31.8677, "alt": 0.16, "diam": 30.0, "min_el": 6, "kind": "RAS", "fmin": 1500, "fmax": 14000},
+  "Hb26": {"name": "Hobart", "lon": 147.4385, "lat": -42.8045, "alt": 0.04, "diam": 26.0, "min_el": 6, "kind": "RAS", "fmin": 1200, "fmax": 12000},
+  "ASK": {"name": "ASKAP", "lon": 116.637, "lat": -26.696, "alt": 0.36, "diam": 12.0, "min_el": 15, "kind": "RAS", "fmin": 700, "fmax": 1800}
+}

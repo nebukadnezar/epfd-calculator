@@ -1,0 +1,7 @@
+numpy
+scipy
+astropy
+matplotlib
+joblib
+pycraf>=2.1
+cysgp4>=0.4

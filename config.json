@@ -1,0 +1,19 @@
+{
+  "python": "~/venv/bin/python",
+  "omm_file": "data/full_omm_2026-06-21_03.xml.bz2",
+  "inputs_csv": "data/sniffles_inputs.csv",
+  "stations_file": "stations.json",
+  "reference_dir": "data",
+  "output_dir": "output",
+  "n_jobs": -1,
+  "prop_budget": 5e7,
+  "example": {
+    "station": "Hb",
+    "frequencies_mhz": [2700, 5240, 8599],
+    "niters": 20,
+    "time_range_s": 2000,
+    "time_step_s": 2.0,
+    "grid_size_deg": 5.0,
+    "fleet_sizes": [50000, 100000, 300000, 1000000]
+  }
+}
